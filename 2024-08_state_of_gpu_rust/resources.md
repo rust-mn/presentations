@@ -1,0 +1,1 @@
+# Resources for the "State of GPU programming in Rust" presentation
